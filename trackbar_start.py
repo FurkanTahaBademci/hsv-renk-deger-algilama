@@ -1,5 +1,5 @@
 from PyQt5.QtWidgets import*
-from arayüz import Ui_MainWindow
+from frame_work import Ui_MainWindow
 from PyQt5.QtGui import*
 from PyQt5.QtCore import*
 from PyQt5.QtWidgets import*
